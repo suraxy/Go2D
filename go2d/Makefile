@@ -13,6 +13,7 @@ GOFILES=\
 CLEANFILES+=go2d
 
 include $(GOROOT)/src/Make.pkg
+我发给他人民群众
 
 %: install %.go
 	$(GC) $*.go
